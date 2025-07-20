@@ -1,30 +1,44 @@
-### Hi there 👋, I'm Muawia!
+# Hi there 👋, I'm Ahmed Muawia!
 
 🚀 **About Me**:  
-I'm a passionate **Back-end Engineer** and an **ALX Certified Software Engineer** with a love for building innovative, scalable, and user-friendly applications. I have a keen curiosity for **AI-powered solutions**. I enjoy exploring new technologies have a keen curiousity for AI powerd solutions creating efficient, scalable, and user-friendly applications.
+ I'm a growth-minded engineer with a solid foundation in software engineering principles and low-level programming. I specialize in building, maintaining, and optimizing RESTful APIs and back-end services using Python (Flask, FastAPI), Node.js, and Express.js. I have a keen curiosity for **AI-powred solutions** and I have practical experience integrating AI tools and applying machine learning concepts. 
+
+My background includes managing both SQL and NoSQL databases like **MongoDB**, **MySQL**, and **SQLite**. I value collaboration, problem-solving, and continuous learning—and I'm always looking for impactful, team-driven projects to grow with.
 
 💻 **Skills**:
-- **MERN stack**:  
-- **Backend Development**: Proficient in **Node.js** and **Express.js** for building robust APIs and server-side applications.  
-- **Frontend Development**: Skilled in **React.js** for creating dynamic and responsive user interfaces.  
-- **Database Management**: Experienced with **MongoDB** for designing and managing NoSQL databases.  
-- **Full-Stack Development**: Strong command of the **MERN stack** for end-to-end web development.  
-- **Tools & Technologies**: Git, Docker, REST APIs, Postman, and more.  
+- **Back-End Development**: Node.js, Express.js, Flask, FastAPI
+- **Front-End Development**: React.js, Next.js (basic)
+- **Database Management**: MongoDB, MySQL, SQLite
+- **Programming Languages**: Python, JavaScript/TypeScript, C
+- **Dev Tools**: Git, Docker, Postman, Redis, Nginx
+- **Other**: Linux, Bash, REST APIs, JWT, Bull for task queues  
 
 🌱 **Currently Learning**:  
 - Advanced **DevOps practices** (CI/CD pipelines)  
 -  Deepening my knowledge of **AI/ML frameworks**
 - AI powerd solutions  
 
-💻 **Tech Stack**:  
-- **Programming Languages**: C language, Python, JavaScript, TypeScript
-- **Frameworks**: Node.js, Express.js, Flask, RESTful APIs, JWT  
-- **Databases**: MongoDB, MySQL  
-- **Tools**: Git, Docker, Postman, AWS  
-- **Other**: Linux, Bash Scripting  
+📂 **Selected Projects**
+
+- 🔹 **[Siento](https://github.com/Muawia24/Siento)** – AI Emotional Wellness App  
+  Journaling app powered by sentiment analysis and reflection prompts. Built with MERN, Redis, and Bull for background task processing.
+
+- 🔹 **[Up & Move](https://chromewebstore.google.com/detail/up-move/cbcmbalekhdklemnhmopihdeombpdmeh)** – Chrome Extension  
+  Health-focused tool that reminds desk workers to stretch and move. Customizable timers, alerts, and streak tracking.
+
+- 🔹 **[Files Manager](https://github.com/Muawia24/alx-files_manager)** – File Storage & Sharing API  
+  Node.js and Express backend mimicking cloud storage platforms. Features include user auth with JWT, file uploads, public sharing, Redis-based session management, and Bull for background image processing.
+
+- 🔹 **[Simple Shell](https://github.com/Muawia24/simple_shell)**  
+  A lightweight shell clone written in C with core shell features.
+
+- 🔹 **[Task Management API](https://github.com/Muawia24/Task-Management-API)**  
+  FastAPI-based RESTful service with SQLite and Pytest test coverage.
+ 
 
 📫 **How to Reach Me**:  
 - [LinkedIn](https://www.linkedin.com/in/ahmed-muawia-72b7031b4/)  
 - [Email](amuawia666@gmail.com)  
+- [Portfolio](https://muawia-portfolio.vercel.app/)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muawia24&show_icons=true&theme=radical)
