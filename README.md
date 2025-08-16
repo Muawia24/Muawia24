@@ -11,7 +11,7 @@ My background includes managing both SQL and NoSQL databases like **MongoDB**, *
 - **Database Management**: MongoDB, MySQL, SQLite
 - **Programming Languages**: Python, JavaScript/TypeScript, C
 - **Dev Tools**: Git, Docker, Postman, Redis, Nginx
-- **Other**: Linux, Bash, REST APIs, JWT, Bull for task queues  
+- **Other**: Linux, Bash, REST APIs, JWT, OAuth2, Bull for task queues  
 
 🌱 **Currently Learning**:  
 - Advanced **DevOps practices** (CI/CD pipelines)  
