@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muawia24.Muawia24)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
@@ -23,20 +23,13 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 📝 Blogs
-
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
-
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
-- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
-- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
-- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
+- [what happens when you type https://www.google.com in your browser and press Enter.](https://medium.com/@ahmed-muawia/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-65c1226c8254)
+- [Postmortem: Load balance routing failure](https://medium.com/@ahmed-muawia/postmortem-report-load-balance-routing-failure-939a4c059474)
+- [The Maze A 3D Game](https://medium.com/@ahmed-muawia/the-maze-a-3d-game-d266fd4a844b)
+- [Building ChatSpace: A Journey into Real-Time Communication](https://medium.com/@ahmed-muawia/building-chatspace-a-journey-into-real-time-communication-014cc49ed617)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
@@ -61,14 +54,14 @@ me.say_hi()
 **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![C Language](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![TypeScript](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 
 
 **Tools and Services:**
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Redis](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 ## &#x1f4c8; GitHub Stats
