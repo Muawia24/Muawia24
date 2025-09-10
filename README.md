@@ -44,7 +44,7 @@ me.say_hi()
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8)
 
-**Databases / Backend**
+**Databases:**
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
@@ -58,7 +58,7 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 
-**Servers / Proxies**
+**Servers:**
 ![Nginx](https://img.shields.io/badge/Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=6aa6f8)
 ![HAProxy](https://img.shields.io/badge/Proxy-HAProxy-informational?style=flat&logo=haproxy&logoColor=white&color=6aa6f8)
 ![Apache](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=6aa6f8)
