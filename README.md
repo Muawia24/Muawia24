@@ -36,6 +36,13 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
+**Programming Languages:**
+
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+
 **Frameworks:**
 
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
@@ -45,20 +52,16 @@ me.say_hi()
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8)
 
 **Databases:**
+
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
 ![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=6aa6f8)
 
-**Programming Languages:**
-
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 
 **Servers:**
+
 ![Nginx](https://img.shields.io/badge/Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=6aa6f8)
 ![HAProxy](https://img.shields.io/badge/Proxy-HAProxy-informational?style=flat&logo=haproxy&logoColor=white&color=6aa6f8)
 ![Apache](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=6aa6f8)
