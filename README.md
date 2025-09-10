@@ -2,6 +2,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Muawia24.Muawia24)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+ [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+ [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](amuawia666@gmail.com)
 
 ```python
 #!/usr/bin/python
